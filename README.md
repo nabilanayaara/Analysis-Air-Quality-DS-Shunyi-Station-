@@ -3,6 +3,9 @@ This is the final project of Dicoding in the course "Learn Data Analysis With Py
 
 For more information, such as the background of this dataset, dataset characteristics, file structure, and more, you can view the Readme file. So, here, I will not explain further.
 
+**Streamlit : Local URL: http://localhost:8502
+  Network URL: http://10.0.107.108:8502**
+
 **2. Project work cycle**
 A. Data Wrangling:
 - Gathering data
