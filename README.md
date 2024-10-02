@@ -30,4 +30,12 @@ Note: Numbers 1 to 3 are in the dicoding-collection-exercise and number 4 is in 
 - Install the Streamlit in your terminal or command prompt using pip install streamlit. Install another libraries like pandas, numpy, scipy, matplotlib, and seaborn if you haven't.
 - Please note, don't move the csv file because it acts a data source. keep it in one folder as dashboard.py
 - Open your VSCode and run the file by clicking the terminal and write it streamlit run dashboard.py.
-  
+
+**4. Screenshot Analysis Data by Streamlit**
+   ![image](https://github.com/user-attachments/assets/5fc4838d-e2e9-4246-9766-01cdce2d9528)
+![image](https://github.com/user-attachments/assets/337d472c-3b5b-4110-afcd-565e66738d44)
+![image](https://github.com/user-attachments/assets/07b94c26-5789-4e1c-bcf2-a08784afe172)
+![image](https://github.com/user-attachments/assets/3821dfc4-69bd-420b-9bb6-7f7217497ea3)
+![image](https://github.com/user-attachments/assets/9c647740-112a-49ae-8e9e-4f72019b4ee3)
+![image](https://github.com/user-attachments/assets/1bd5fdf4-2cd2-4d21-910e-def493c411ea)
+
