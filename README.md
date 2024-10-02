@@ -21,14 +21,12 @@ C. Dashboard:
 Note: Numbers 1 to 3 are in the dicoding-collection-exercise and number 4 is in dashboard.
 
 **3. Getting Started**
-notebook.ipynb
 - Download this project.
 - Open your favorite IDE like Jupyter Notebook or Google Colaboratory (but in here I will use Google Colab).
 - Create a New Notebook.Upload and select the file with .ipynb extension.
 - Connect to hosted runtime.
-- Lastly, run the code cells.
- dashboard/dashboard.py  
-- Download this project.
+- Lastly, run the code cells. 
+- Then, for the dashboard download this project.
 - Install the Streamlit in your terminal or command prompt using pip install streamlit. Install another libraries like pandas, numpy, scipy, matplotlib, and seaborn if you haven't.
 - Please note, don't move the csv file because it acts a data source. keep it in one folder as dashboard.py
 - Open your VSCode and run the file by clicking the terminal and write it streamlit run dashboard.py.
