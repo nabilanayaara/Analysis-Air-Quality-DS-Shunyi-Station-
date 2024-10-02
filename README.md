@@ -20,7 +20,7 @@ C. Dashboard:
   
 Note: Numbers 1 to 3 are in the dicoding-collection-exercise and number 4 is in dashboard.
 
-3. Getting Started
+**3. Getting Started**
 notebook.ipynb
 - Download this project.
 - Open your favorite IDE like Jupyter Notebook or Google Colaboratory (but in here I will use Google Colab).
