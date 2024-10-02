@@ -27,7 +27,7 @@ notebook.ipynb
 - Create a New Notebook.Upload and select the file with .ipynb extension.
 - Connect to hosted runtime.
 - Lastly, run the code cells.
-dashboard/dashboard.py
+  dashboard/dashboard.py
 - Download this project.
 - Install the Streamlit in your terminal or command prompt using pip install streamlit. Install another libraries like pandas, numpy, scipy, matplotlib, and seaborn if you haven't.
 - Please note, don't move the csv file because it acts a data source. keep it in one folder as dashboard.py
